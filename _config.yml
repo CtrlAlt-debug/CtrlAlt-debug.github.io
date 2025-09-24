@@ -1,0 +1,51 @@
+# GitHub Pages Configuration for Ctrl Alt Debug Blog
+
+# Site settings
+title: "Ctrl Alt Debug"
+description: "Your go-to destination for cutting-edge tech insights, debugging adventures, and programming wisdom."
+url: "https://yourusername.github.io"
+baseurl: "/blawg"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+
+# Include files that start with underscore
+include:
+  - _pages
+
+# Plugin settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO settings
+author: "Ctrl Alt Debug Team"
+twitter:
+  username: ctrlaltdebug
+  card: summary_large_image
+
+# Social links
+social:
+  github: yourusername
+  twitter: ctrlaltdebug
+  linkedin: ctrlaltdebug
+
+# Collections (if you want to use Jekyll collections for posts)
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name/
