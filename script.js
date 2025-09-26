@@ -2,7 +2,7 @@
 class CtrlAltDebugBlog {
     constructor() {
         this.posts = [];
-        this.currentView = 'home';
+        this.currentView = 'home'; 
         this.currentPost = null;
         this.init();
     }
