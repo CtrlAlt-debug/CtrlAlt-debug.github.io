@@ -15,7 +15,7 @@ comments:
     content: "Great post! One thing I'd add is using the Network tab in DevTools to debug API calls. It's been invaluable for catching CORS issues and malformed requests."
 ---
 
-# Debugging JavaScript Like a Pro
+# Debugging JavaScript Like an absolute Pro
 
 Debugging is an essential skill for any JavaScript developer. In this comprehensive guide, we'll explore advanced debugging techniques that will transform you from a console.log warrior into a debugging ninja.
 
