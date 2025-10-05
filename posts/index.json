@@ -1,0 +1,429 @@
+[
+  {
+    "title": "Brilliant Labs Frames Review:",
+    "date": "2024-08-19T12:00:00Z",
+    "excerpt": "Open-source AR glasses sound like a nerd’s fantasy. Brilliant Labs just went ahead and made them real — and the results are a lot more compelling than you’d expect.",
+    "tags": ["data-visualization", "tools", "productivity"],
+    "path": "posts/2024-08-19-brilliant-labs-frames-review.md",
+    "slug": "brilliant-labs-frames-review" 
+  },
+  {
+    "title": "Anatomy of AR Glasses:",
+    "date": "2024-08-28T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the anatomy of AR glasses and how they work.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2024-08-28-anatomy-of-ar-glasses.md",
+    "slug": "anatomy-of-ar-glasses" 
+  },
+  {
+    "title": "Your First Week with AR Glasses: What to Expect:",
+    "date": "2024-09-04T12:00:00Z",
+    "excerpt": "A candid guide to your first seven days of life with augmented reality glasses—what feels magical, what feels awkward, and how to actually get the best out of them",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2024-09-04-your-first-week-with-ar-glasses-what-to-expect.md",
+    "slug": "your-first-week-with-ar-glasses-what-to-expect" 
+  },
+  {
+    "title": "It's Glowtime: iPhone 16 and Apple Intelligence",
+    "date": "2024-09-10T12:00:00Z",
+    "excerpt": "Apple Intelligence is a new feature that promises to make your iPhone 16 even more powerful. In this post, we’ll take a look at the features of Apple Intelligence and how they work.",
+    "tags": ["iphone", "apple-intelligence", "technology"],
+    "path": "posts/2024-09-10-its-glowtime-iphone-16-apple-intelligence.md",
+    "slug": "its-glowtime-iphone-16-apple-intelligence" 
+  },
+  {
+    "title": "Meta Connect 2024 Preview:",
+    "date": "2024-09-17T12:00:00Z",
+    "excerpt": "Meta Connect 2024 is a virtual event that will feature a mix of keynote speakers, product demos, and community panels. In this post, we’ll take a look at the preview of Meta Connect 2024 and what to expect.",
+    "tags": ["meta", "connect", "2024", "preview"],
+    "path": "posts/2024-09-17-meta-connect-2024-preview.md",
+    "slug": "meta-connect-2024-preview" 
+  },
+  {
+    "title": "Meta Orion AR Glasses Unveiled:",
+    "date": "2024-09-25T12:00:00Z",
+    "excerpt": "Meta Orion AR glasses are a lot more than just a pair of glasses. In this post, we’ll take a look at the features of Meta Orion AR glasses and how they work.",
+    "tags": ["meta", "orion", "ar", "glasses", "technology"],
+    "path": "posts/2024-09-25-meta-orion-ar-glasses-unveiled.md",
+    "slug": "meta-orion-ar-glasses-unveiled" 
+  },
+  {
+    "title": "Meta Quest 3S Launch:",
+    "date": "2024-09-30T12:00:00Z",
+    "excerpt": "Meta Quest 3S is a new generation of Quest headsets that promise to deliver even more immersive experiences. In this post, we’ll take a look at the launch of Meta Quest 3S and what to expect.",
+    "tags": ["meta", "quest", "3s", "launch"],
+    "path": "posts/2024-09-30-meta-quest-3s-launch.md",
+    "slug": "meta-quest-3s-launch" 
+  },
+  {
+    "title": "Snap Spectacles 5 Announcement:",
+    "date": "2024-10-08T12:00:00Z",
+    "excerpt": "Snap Spectacles 5 is a new generation of AR glasses that promise to deliver even more immersive experiences. In this post, we’ll take a look at the announcement of Snap Spectacles 5 and what to expect.",
+    "tags": ["snap", "spectacles", "5", "announcement"],
+    "path": "posts/2024-10-08-snap-spectacles-5-announcement.md",
+    "slug": "snap-spectacles-5-announcement" 
+  },
+  {
+    "title": "Optical Waveguides in AR Glasses:",
+    "date": "2024-10-16T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the anatomy of AR glasses and how they work.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2024-10-16-optical-waveguides-ar-glasses.md",
+    "slug": "optical-waveguides-ar-glasses"
+  },
+  {
+    "title": "Meta Orion 70-Degree Field of View:",
+    "date": "2024-10-22T12:00:00Z",
+    "excerpt": "Meta Orion AR glasses are a lot more than just a pair of glasses. In this post, we’ll take a look at the features of Meta Orion AR glasses and how they work.",
+    "tags": ["meta", "orion", "70-degree", "fov", "ar", "glasses", "technology"],
+    "path": "posts/2024-10-22-meta-orion-70-degree-fov.md",
+    "slug": "meta-orion-70-degree-fov"
+  },
+  {
+    "title": "Refresh Rates in AR Glasses:",
+    "date": "2024-10-30T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the refresh rates of AR glasses and how they work.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2024-10-30-refresh-rates-ar-glasses.md",
+    "slug": "refresh-rates-ar-glasses"
+  },
+  {
+    "title": "Meta Orion 10,000 Price Tag:",
+    "date": "2024-11-05T12:00:00Z",
+    "excerpt": "Meta Orion AR glasses are a lot more than just a pair of glasses. In this post, we’ll take a look at the price tag of Meta Orion AR glasses and how it compares to other AR glasses.",
+    "tags": ["meta", "orion", "10,000", "price-tag", "ar", "glasses", "technology"],
+    "path": "posts/2024-11-05-meta-orion-10000-price-tag.md",
+    "slug": "meta-orion-10000-price-tag"
+  },
+  {
+    "title": "Prescription Lenses in AR Glasses:",
+    "date": "2024-11-13T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the prescription lenses of AR glasses and how they work.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2024-11-13-prescription-lenses-ar-glasses.md",
+    "slug": "prescription-lenses-ar-glasses"
+  },
+  {
+    "title": "Meta Orion Neural Wristband:",
+    "date": "2024-11-19T12:00:00Z",
+    "excerpt": "Meta Orion AR glasses are a lot more than just a pair of glasses. In this post, we’ll take a look at the neural wristband of Meta Orion AR glasses and how it works.",
+    "tags": ["meta", "orion", "neural", "wristband", "ar", "glasses", "technology"],
+    "path": "posts/2024-11-19-meta-orion-neural-wristband.md",
+    "slug": "meta-orion-neural-wristband"
+  },
+  {
+    "title": "Inside-Out vs. Outside-In Tracking:",
+    "date": "2024-11-27T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the inside-out vs. outside-in tracking of AR glasses and how they work.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2024-11-27-inside-out-vs-outside-in-tracking.md",
+    "slug": "inside-out-vs-outside-in-tracking"
+  },
+  {
+    "title": "Samsung, Google, Qualcomm XR Partnership:",
+    "date": "2024-12-03T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the partnership between Samsung, Google, and Qualcomm on XR glasses and how it works.",
+    "tags": ["samsung", "google", "qualcomm", "xr", "partnership", "ar", "glasses", "technology"],
+    "path": "posts/2024-12-03-samsung-google-qualcomm-xr-partnership.md",
+    "slug": "samsung-google-qualcomm-xr-partnership"
+  },
+  {
+    "title": "Ray-Ban Meta Glasses AI Features:",
+    "date": "2024-12-04T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the AI features of Ray-Ban Meta Glasses and how they work.",
+    "tags": ["ray-ban", "meta", "glasses", "ai", "features", "ar", "glasses", "technology"],
+    "path": "posts/2024-12-04-ray-ban-meta-glasses-ai-features.md",
+    "slug": "ray-ban-meta-glasses-ai-features"
+  },
+  {
+    "title": "Tethered vs. Standalone AR Glasses:",
+    "date": "2024-12-25T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the tethered vs. standalone AR glasses and how they work.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2024-12-25-tethered-vs-standalone-ar-glasses.md",
+    "slug": "tethered-vs-standalone-ar-glasses"
+  },
+  {
+    "title": "Clean Maintain Smart Glasses:",
+    "date": "2025-01-02T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the clean maintain smart glasses and how they work.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-01-02-clean-maintain-smart-glasses.md",
+    "slug": "clean-maintain-smart-glasses"
+  },
+  {
+    "title": "CES 2025 Wearables Roundup:",
+    "date": "2025-01-09T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the CES 2025 wearables roundup and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-01-09-ces-2025-wearables-roundup.md",
+    "slug": "ces-2025-wearables-roundup"
+  },
+  {
+    "title": "Samsung Android XR Glasses Leak:",
+    "date": "2025-01-15T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the Samsung Android XR Glasses leak and how it works.",
+    "tags": ["samsung", "android", "xr", "glasses", "leak", "ar", "glasses", "technology"],
+    "path": "posts/2025-01-15-samsung-android-xr-glasses-leak.md",
+    "slug": "samsung-android-xr-glasses-leak"
+  },
+  {
+    "title": "Degrees of Freedom in AR Glasses:",
+    "date": "2025-01-22T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the degrees of freedom in AR glasses and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-01-22-degrees-of-freedom-ar-vr.md",
+    "slug": "degrees-of-freedom-ar-glasses"
+  },
+  {
+    "title": "AR Glasses Language Learning:",
+    "date": "2025-01-29T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the language learning features of AR glasses and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-01-29-ar-glasses-language-learning.md",
+    "slug": "ar-glasses-language-learning"
+  },
+  {
+    "title": "Apple Vision Pro International Expansion:",
+    "date": "2025-02-04T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the international expansion of Apple Vision Pro and how it works.",
+    "tags": ["apple", "vision", "pro", "international", "expansion", "ar", "glasses", "technology"],
+    "path": "posts/2025-02-04-apple-vision-pro-international-expansion.md",
+    "slug": "apple-vision-pro-international-expansion"
+  },
+  {
+    "title": "Bone Conduction Audio in Smart Glasses:",
+    "date": "2025-02-12T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the bone conduction audio in smart glasses and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-02-12-bone-conduction-audio-smart-glasses.md",
+    "slug": "bone-conduction-audio-smart-glasses"
+  },
+  {
+    "title": "Motion Sickness AR Tips:",
+    "date": "2025-02-19T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the motion sickness AR tips and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-02-19-motion-sickness-ar-tips.md",
+    "slug": "motion-sickness-ar-tips"
+  },
+  {
+    "title": "Meta Smartwatch Revival Rumors:",
+    "date": "2025-02-26T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the Meta Smartwatch revival rumors and how it works.",
+    "tags": ["meta", "smartwatch", "revival", "rumors", "ar", "glasses", "technology"],
+    "path": "posts/2025-02-26-meta-smartwatch-revival-rumors.md",
+    "slug": "meta-smartwatch-revival-rumors"
+  },
+  {
+    "title": "Computer Vision in AR Glasses:",
+    "date": "2025-03-05T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the computer vision in AR glasses and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-03-05-computer-vision-ar-glasses.md",
+    "slug": "computer-vision-ar-glasses"
+  },
+  {
+    "title": "XReal One Launch:",
+    "date": "2025-03-12T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the XReal One launch and how it works.",
+    "tags": ["xreal", "one", "launch", "ar", "glasses", "technology"],
+    "path": "posts/2025-03-12-xreal-one-launch.md",
+    "slug": "xreal-one-launch"
+  },
+  {
+    "title": "Creating a Perfect AR Workspace Home:",
+    "date": "2025-03-19T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the creating a perfect AR workspace home and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-03-19-creating-perfect-ar-workspace-home.md",
+    "slug": "creating-perfect-ar-workspace-home"
+  },
+  {
+    "title": "AR Glasses Etiquette in Public Spaces:",
+    "date": "2025-03-26T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the AR glasses etiquette in public spaces and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-03-26-ar-glasses-etiquette-public-spaces.md",
+    "slug": "ar-glasses-etiquette-public-spaces"
+  },
+  {
+    "title": "RayNeo Air 3S Announcement:",
+    "date": "2025-03-31T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the RayNeo Air 3S announcement and how it works.",
+    "tags": ["rayneo", "air", "3s", "announcement", "ar", "glasses", "technology"],
+    "path": "posts/2025-03-31-rayneo-air-3s-announcement.md",
+    "slug": "rayneo-air-3s-announcement"
+  },
+  {
+    "title": "Pairing Multiple Wearables:",
+    "date": "2025-04-09T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the pairing multiple wearables and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-04-09-pairing-multiple-wearables.md",
+    "slug": "pairing-multiple-wearables"
+  },
+  {
+    "title": "Wearables for Neurodivergent Accessibility:",
+    "date": "2025-04-16T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the wearables for neurodivergent accessibility and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-04-16-wearables-neurodivergent-accessibility.md",
+    "slug": "wearables-neurodivergent-accessibility"
+  },
+  {
+    "title": "Android XR Developer Preview:",
+    "date": "2025-04-21T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the Android XR Developer Preview and how it works.",
+    "tags": ["android", "xr", "developer", "preview", "ar", "glasses", "technology"],
+    "path": "posts/2025-04-21-android-xr-developer-preview.md",
+    "slug": "android-xr-developer-preview"
+  },
+  {
+    "title": "AR Home Improvement DIY:",
+    "date": "2025-04-30T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the AR home improvement DIY and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-04-30-ar-home-improvement-diy.md",
+    "slug": "ar-home-improvement-diy"
+  },
+  {
+    "title": "Android XR Developer Preview:",
+    "date": "2025-05-06T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the Android XR Developer Preview and how it works.",
+    "tags": ["android", "xr", "developer", "preview", "ar", "glasses", "technology"],
+    "path": "posts/2025-05-06-android-xr-developer-preview.md",
+    "slug": "android-xr-developer-preview"
+  },
+  {
+    "title": "Troubleshooting AR Glasses Connectivity:",
+    "date": "2025-05-14T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the troubleshooting AR glasses connectivity and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-05-14-troubleshooting-ar-glasses-connectivity.md",
+    "slug": "troubleshooting-ar-glasses-connectivity"
+  },
+  {
+    "title": "Consumer vs. Enterprise AR:",
+    "date": "2025-05-21T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the consumer vs. enterprise AR and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-05-21-consumer-vs-enterprise-ar.md",
+    "slug": "consumer-vs-enterprise-ar"
+  },
+  {
+    "title": "AR Glasses Healthcare Beyond Hype:",
+    "date": "2025-05-28T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the AR glasses healthcare beyond hype and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-05-28-ar-glasses-healthcare-beyond-hype.md",
+    "slug": "ar-glasses-healthcare-beyond-hype"
+  },
+  {
+    "title": "Demo AR Glasses with Skeptical Friends:",
+    "date": "2025-06-04T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the demo AR glasses with skeptical friends and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-06-04-demo-ar-glasses-skeptical-friends.md",
+    "slug": "demo-ar-glasses-skeptical-friends"
+  },
+  {
+    "title": "Smart Glasses Cycling and Running Safety:",
+    "date": "2025-06-11T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the smart glasses cycling and running safety and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-06-11-smart-glasses-cycling-running-safety.md",
+    "slug": "smart-glasses-cycling-running-safety"
+  },
+  {
+    "title": "Open vs. Walled AR Platforms:",
+    "date": "2025-06-18T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the open vs. walled AR platforms and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-06-18-open-vs-walled-ar-platforms.md",
+    "slug": "open-vs-walled-ar-platforms"
+  },
+  {
+    "title": "AR Museum Cultural Tourism:",
+    "date": "2025-06-25T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the AR museum cultural tourism and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-06-25-ar-museum-cultural-tourism.md",
+    "slug": "ar-museum-cultural-tourism"
+  },
+  {
+    "title": "Recording Indicators in Smart Glasses:",
+    "date": "2025-07-02T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the recording indicators in smart glasses and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-07-02-recording-indicators-smart-glasses.md",
+    "slug": "recording-indicators-smart-glasses"
+  },
+  {
+    "title": "Wearables Meditation Mindfulness Tracking:",
+    "date": "2025-07-09T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the wearables meditation mindfulness tracking and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-07-09-wearables-meditation-mindfulness-tracking.md",
+    "slug": "wearables-meditation-mindfulness-tracking"
+  },
+  {
+    "title": "AR Glasses vs. Smartphone AR:",
+    "date": "2025-07-16T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the AR glasses vs. smartphone AR and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-07-16-ar-glasses-vs-smartphone-ar.md",
+    "slug": "ar-glasses-vs-smartphone-ar"
+  },
+  {
+    "title": "Halo Is Here: Brilliant Labs Unveils Their AI Glasses Revolution:",
+    "date": "2025-08-03T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the Halo: Brilliant Labs Unveils Their AI Glasses Revolution and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-08-03-brilliant-labs-halo-announcement.md",
+    "slug": "brilliant-labs-halo-announcement"
+  },
+  {
+    "title": "Meta Connect 2025: Hypernova Glasses Rumors:",
+    "date": "2025-08-06T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the Meta Connect 2025: Hypernova Glasses Rumors and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-08-06-meta-connect-2025-hypernova-glasses-rumors.md",
+    "slug": "meta-connect-2025-hypernova-glasses-rumors"
+  },
+  {
+    "title": "why ar glasses arent replacing phones",
+    "date": "2025-08-13T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the why ar glasses arent replacing phones and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-08-13-why-ar-glasses-arent-replacing-phones.md",
+    "slug": "why-ar-glasses-arent-replacing-phones"
+  },
+  {
+    "title": "privacy concerns nobody talks about",
+    "date": "2025-08-20T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the privacy concerns nobody talks about and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-08-20-privacy-concerns-nobody-talks-about.md",
+    "slug": "privacy-concerns-nobody-talks-about"
+  },
+  {
+    "title": "meta ray-ban display glasses unveiled",
+    "date": "2025-08-27T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the meta ray-ban display glasses unveiled and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-08-27-meta-ray-ban-display-glasses-unveiled.md",
+    "slug": "meta-ray-ban-display-glasses-unveiled"
+  },
+  {
+    "title": "samsung android xr glasses release date announced",
+    "date": "2025-09-29T12:00:00Z",
+    "excerpt": "AR glasses are a lot more complex than you might think. In this post, we’ll take a look at the samsung android xr glasses release date announced and how it works.",
+    "tags": ["ar", "glasses", "technology"],
+    "path": "posts/2025-09-29-samsung-android-xr-glasses-release-date-announced.md",
+    "slug": "samsung-android-xr-glasses-release-date-announced"
+  }
+
+  
+
+]
