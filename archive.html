@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archive - ctrl alt debug</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">ctrl alt debug</a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link">Home</a>
+                <a href="archive.html" class="nav-link active">Archive</a>
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                    <span class="theme-icon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <main class="main">
+        <section class="archive-header">
+            <div class="container">
+                <h1 class="page-title">Archive</h1>
+                <p class="page-subtitle">All posts, searchable and filterable</p>
+            </div>
+        </section>
+
+        <section class="archive-controls">
+            <div class="container">
+                <div class="search-container">
+                    <input type="text" id="searchInput" class="search-input" placeholder="Search posts by title, excerpt, or tags...">
+                </div>
+                <div class="filter-tags" id="filterTags">
+                    <!-- Tag filters will be populated by JavaScript -->
+                </div>
+            </div>
+        </section>
+
+        <section class="archive-posts">
+            <div class="container">
+                <div class="posts-list" id="archivePosts">
+                    <!-- Posts will be loaded here by JavaScript -->
+                </div>
+                <div class="load-more-container" id="loadMoreContainer">
+                    <button class="btn btn-secondary" id="loadMoreBtn">Load More Posts</button>
+                </div>
+                <div class="no-results" id="noResults" style="display: none;">
+                    <p>No posts found matching your search criteria.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 ctrl alt debug. Built with ❤️ and vanilla JS.</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
